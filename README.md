@@ -1,2 +1,2 @@
 # NRC
-Building first project
+Building first project on Git-Hub
